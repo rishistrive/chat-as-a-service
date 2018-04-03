@@ -20,6 +20,6 @@ User.create(
   email: "admin@example.com",
   password: password,
   password_confirmation: password,
-  phone_number: '+919713131334',
+  phone_number: 'phone_number',
   role: 1
 )
